@@ -16,6 +16,7 @@ For languages with array filtering built in, such as R and Python, do not use co
 ## Bioinformatics Section Objectives
 
 The goal of this exercise is to implement an algorithmic approach that will:
+
 (1)	Identify segments of the chromosome with similar Log2(Ratio).
 (2)	Use the Log2(Ratio) values in the segment to estimate the copy number.
 (3)	Output a copy number for any point of the chromosome.
