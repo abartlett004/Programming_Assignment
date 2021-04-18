@@ -1,5 +1,5 @@
 # Programming_Assignment
-A two-part programming and bioinformatics assignment I completed.
+A two-part programming and bioinformatics assignment.
 
 ## Programming Section Instructions
 
