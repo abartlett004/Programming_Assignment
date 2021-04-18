@@ -1,4 +1,4 @@
-# Programming_Assignment
+# Programming_Assignment_1
 A two-part programming and bioinformatics assignment.
 
 ## Programming Section Instructions
